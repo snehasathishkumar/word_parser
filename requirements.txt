@@ -1,0 +1,4 @@
+Ipython
+ipywidgets
+ipykernel
+python-docx
