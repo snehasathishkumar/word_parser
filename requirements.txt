@@ -2,3 +2,8 @@ Ipython
 ipywidgets
 ipykernel
 python-docx
+python-dotenv
+langchain_community
+unstructured
+langchain-chroma
+chromadb
